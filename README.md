@@ -1,4 +1,4 @@
-
+<img src="vuacobac.png" width="100%">
 
 # ♟️ Trận Hùng Biện Cờ Vua Trên Profile Của Tôi!
 
@@ -12,6 +12,3 @@ Chào mừng bạn đến với bàn cờ vua tương tác. Bất kỳ ai ghé t
 ### Đến lượt bạn rồi! Đóng góp một nước đi bằng cách click vào liên kết phía dưới:
 [👉 Bấm vào đây để xem các nước đi hợp lệ và chơi ván mới!](https://github.com)
 <!-- CHESS GAME STATUS END -->
-<img src="./vuacobac.png" width="100%">
-
-
