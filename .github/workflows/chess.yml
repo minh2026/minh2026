@@ -1,0 +1,30 @@
+name: Chess
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'Chess:')
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install chess requests
+
+      - name: Play move
+        run: |
+          python -m src.main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
