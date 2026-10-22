@@ -7,25 +7,12 @@ on:
 jobs:
   play:
     runs-on: ubuntu-latest
-    if: startsWith(github.event.issue.title, 'ttictactoe|')
+    if: startsWith(github.event.issue.title, 'tictactoe|') # Chấp nhận lệnh chữ thường
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-level: '3.x'
-
-      - name: Clone Game Package
-        run: |
-          git clone https://github.com game-repo
-          cp -r game-repo/.github/workflows/scripts .
-          rm -rf game-repo
-
       - name: Play Game
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          pip install PyGithub
-          python scripts/play.py
+        uses: jstrieb/github-action-tictactoe@v1.0.1
+        with:
+          MX_TOKEN: ${{ secrets.GITHUB_TOKEN }}
