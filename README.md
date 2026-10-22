@@ -1,4 +1,4 @@
-<img src="./vuacobac.png" width="100%">
+
 
 # ♟️ Trận Hùng Biện Cờ Vua Trên Profile Của Tôi!
 
