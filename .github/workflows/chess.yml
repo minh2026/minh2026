@@ -33,7 +33,7 @@ jobs:
       - name: Commit and Push Board Image
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "github-actions[bot]@://github.com"
           git add chess-board.png
           git commit -m "Initialize chess board image" || exit 0
           git push
