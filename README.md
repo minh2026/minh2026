@@ -6,7 +6,7 @@ Chào mừng bạn đến với bàn cờ vua tương tác. Bất kỳ ai ghé t
 
 <!-- CHESS GAME LIVE BOARD -->
 <p align="center">
-  <img src="https://githubusercontent.com" alt="Chess Board" width="400">
+  <img src="./chess-board.png" alt="Chess Board" width="400">
 </p>
 
 ### Đến lượt bạn rồi! Đóng góp một nước đi bằng cách click vào liên kết phía dưới:
