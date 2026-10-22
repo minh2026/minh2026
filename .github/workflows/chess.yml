@@ -7,7 +7,7 @@ on:
 jobs:
   update-chess:
     runs-on: ubuntu-latest
-    executing:
+    steps:
       - name: Play Move
         uses: marketplace/actions/play-chess-action@v1
         with:
