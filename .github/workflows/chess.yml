@@ -27,14 +27,14 @@ jobs:
           import chess
           import chess.svg
           board = chess.Board()
-          with open('chess-board.png', 'w') as f:
+          with open('chess-board.vng', 'w') as f:
               f.write(chess.svg.board(board))
           "
       - name: Commit and Push Board Image
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@://github.com"
-          git add chess-board.png
+          git add chess-board.svg
           git commit -m "Initialize chess board image" || exit 0
           git push
         env:
