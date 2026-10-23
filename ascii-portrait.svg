@@ -21,7 +21,7 @@
   <text x="420" y="19" fill="#7d8590" font-size="12" text-anchor="middle">minh2026@github: ~$ ./portrait.sh</text>
 
   <g clip-path="url(#photoClip)">
-    <image href="dminh.jpg"
+    <image href="https://raw.githubusercontent.com/minh2026/minh2026/refs/heads/main/dminh.jpg"
            x="20" y="45"
            width="800" height="780"
            preserveAspectRatio="xMidYMid slice"/>
