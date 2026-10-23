@@ -14,6 +14,7 @@
 <text x="112" y="135" fill="#c9d1d9" font-size="10" opacity="0"><set attributeName="opacity" to="1" begin="0.61s" fill="freeze"/>Currently Learning &amp; Building</text>
 <text x="24" y="157" fill="#7d8590" font-size="10" opacity="0"><set attributeName="opacity" to="1" begin="0.79s" fill="freeze"/>Location:</text>
 <text x="112" y="157" fill="#c9d1d9" font-size="10" opacity="0"><set attributeName="opacity" to="1" begin="0.79s" fill="freeze"/>Ha Noi, Vietnam</text>
+<g transform="translate(224 148)" opacity="0"><set attributeName="opacity" to="1" begin="0.79s" fill="freeze"/><rect width="16" height="11" rx="0.6" fill="#da251d"/><polygon points="8,1.5 9.55,5 13.3,5.2 10.4,7.5 11.4,10 8,8.2 4.6,10 5.6,7.5 2.7,5.2 6.45,5" fill="#ffdf00"/></g>
 <text x="24" y="179" fill="#7d8590" font-size="10" opacity="0"><set attributeName="opacity" to="1" begin="0.97s" fill="freeze"/>Languages:</text>
 <text x="112" y="179" fill="#c9d1d9" font-size="10" opacity="0"><set attributeName="opacity" to="1" begin="0.97s" fill="freeze"/>C · Java · C#</text>
 <text x="24" y="201" fill="#7d8590" font-size="10" opacity="0"><set attributeName="opacity" to="1" begin="1.15s" fill="freeze"/>Frontend:</text>
