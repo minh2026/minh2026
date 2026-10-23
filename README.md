@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3><code>minh2026@github ~ $ ./contributions.sh</code></h3>
+<h3><code>minh2026@github</code></h3>
 <img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
 
 <br><br>
@@ -15,7 +15,7 @@
 
 <br>
 
-<h3><code>minh2026@github ~ $ ./links.sh</code></h3>
+<h3><code>minh2026@github</code></h3>
 
 <b>Software Engineer · Freelancer</b>
 <img src="vuacobac.png" width="100%">
