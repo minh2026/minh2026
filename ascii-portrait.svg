@@ -1,37 +1,186 @@
-
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="880" viewBox="0 0 840 880" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#111722"/>
-      <stop offset="1" stop-color="#0d1117"/>
-    </linearGradient>
-    <clipPath id="photoClip">
-      <rect x="20" y="45" width="800" height="780" rx="4"/>
-    </clipPath>
-  </defs>
-
-  <rect width="840" height="880" rx="12" fill="url(#bg)"/>
-  <rect x="0.5" y="0.5" width="839" height="879" rx="12" fill="none" stroke="#30363d"/>
-
-  <line x1="0" y1="30" x2="840" y2="30" stroke="#30363d"/>
-  <circle cx="20" cy="15" r="5" fill="#ff5f56"/>
-  <circle cx="36" cy="15" r="5" fill="#ffbd2e"/>
-  <circle cx="52" cy="15" r="5" fill="#27c93f"/>
-
-  <text x="420" y="19" fill="#7d8590" font-size="12" text-anchor="middle">minh2026@github: ~$ ./portrait.sh</text>
-
-  <g clip-path="url(#photoClip)">
-    <image href="https://raw.githubusercontent.com/minh2026/minh2026/refs/heads/main/dminh.jpg"
-           x="20" y="45"
-           width="800" height="780"
-           preserveAspectRatio="xMidYMid slice"/>
-  </g>
-
-  <line x1="0" y1="837" x2="840" y2="837" stroke="#30363d"/>
-
-  <text x="20" y="856" fill="#7d8590" font-size="13">minh2026@github:~$ whoami <tspan fill="#c9d1d9">Pham Duc Minh</tspan></text>
-
-  <rect x="402" y="844" width="8" height="14" fill="#c9d1d9">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#111722"/>
+    <stop offset="1" stop-color="#0d1117"/>
+  </linearGradient>
+</defs>
+<rect width="840" height="880" rx="12" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="839" height="879" rx="12" fill="none" stroke="#30363d"/>
+<line x1="0" y1="30" x2="840" y2="30" stroke="#30363d"/>
+<circle cx="20" cy="15" r="5" fill="#ff5f56"/>
+<circle cx="36" cy="15" r="5" fill="#ffbd2e"/>
+<circle cx="52" cy="15" r="5" fill="#27c93f"/>
+<text x="420" y="19" fill="#7d8590" font-size="12" text-anchor="middle">minh2026@github: ~$ ./portrait.sh</text>
+<clipPath id="line0"><rect x="20" y="87.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="0.000s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line0)"><text xml:space="preserve" x="20" y="94.00" fill="#c9d1d9" font-size="6">:---++==-::.</text></g>
+<clipPath id="line1"><rect x="20" y="95.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="0.070s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line1)"><text xml:space="preserve" x="20" y="102.75" fill="#c9d1d9" font-size="6">                                                                                                                   :-+##@%###@@@@@@%#%%+--.</text></g>
+<clipPath id="line2"><rect x="20" y="104.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="0.140s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line2)"><text xml:space="preserve" x="20" y="111.50" fill="#c9d1d9" font-size="6">                                                                                                              :+*###%@@@@@@@@@@@@@@@@@@@@@%#+*#+++=-:. .</text></g>
+<clipPath id="line3"><rect x="20" y="113.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="0.210s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line3)"><text xml:space="preserve" x="20" y="120.25" fill="#c9d1d9" font-size="6">                                                                                                           .-=*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%##=:</text></g>
+<clipPath id="line4"><rect x="20" y="122.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="0.280s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line4)"><text xml:space="preserve" x="20" y="129.00" fill="#c9d1d9" font-size="6">                                                                                                        :-*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*-</text></g>
+<clipPath id="line5"><rect x="20" y="130.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="0.350s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line5)"><text xml:space="preserve" x="20" y="137.75" fill="#c9d1d9" font-size="6">                                                                                                      =%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*+.</text></g>
+<clipPath id="line6"><rect x="20" y="139.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="0.420s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line6)"><text xml:space="preserve" x="20" y="146.50" fill="#c9d1d9" font-size="6">                                                                                                 .:+%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*:</text></g>
+<clipPath id="line7"><rect x="20" y="148.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="0.490s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line7)"><text xml:space="preserve" x="20" y="155.25" fill="#c9d1d9" font-size="6">                                                                                                  -#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+:</text></g>
+<clipPath id="line8"><rect x="20" y="157.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="0.560s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line8)"><text xml:space="preserve" x="20" y="164.00" fill="#c9d1d9" font-size="6">                                                                                               .=%@%#%@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.</text></g>
+<clipPath id="line9"><rect x="20" y="165.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="0.630s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line9)"><text xml:space="preserve" x="20" y="172.75" fill="#c9d1d9" font-size="6">                                                                                             +%%--+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@%#-.</text></g>
+<clipPath id="line10"><rect x="20" y="174.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="0.700s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line10)"><text xml:space="preserve" x="20" y="181.50" fill="#c9d1d9" font-size="6">                                                                                           .    =*#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*:</text></g>
+<clipPath id="line11"><rect x="20" y="183.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="0.770s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line11)"><text xml:space="preserve" x="20" y="190.25" fill="#c9d1d9" font-size="6">                                                                                              .*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*=</text></g>
+<clipPath id="line12"><rect x="20" y="192.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="0.840s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line12)"><text xml:space="preserve" x="20" y="199.00" fill="#c9d1d9" font-size="6">                                                                                           :-:-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+.</text></g>
+<clipPath id="line13"><rect x="20" y="200.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="0.910s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line13)"><text xml:space="preserve" x="20" y="207.75" fill="#c9d1d9" font-size="6">                                                                                            .*%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+.</text></g>
+<clipPath id="line14"><rect x="20" y="209.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="0.980s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line14)"><text xml:space="preserve" x="20" y="216.50" fill="#c9d1d9" font-size="6">                                                                                          .-==+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-.</text></g>
+<clipPath id="line15"><rect x="20" y="218.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="1.050s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line15)"><text xml:space="preserve" x="20" y="225.25" fill="#c9d1d9" font-size="6">                                                                                          ..-##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%##+:</text></g>
+<clipPath id="line16"><rect x="20" y="227.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="1.120s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line16)"><text xml:space="preserve" x="20" y="234.00" fill="#c9d1d9" font-size="6">                                                                                          .-+++@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#-:-:</text></g>
+<clipPath id="line17"><rect x="20" y="235.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="1.190s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line17)"><text xml:space="preserve" x="20" y="242.75" fill="#c9d1d9" font-size="6">                                                                                         ..:.+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@%@@@@%@@@@@@@%@@@@@@@%@@@@@@@@@@%=::.</text></g>
+<clipPath id="line18"><rect x="20" y="244.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="1.260s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line18)"><text xml:space="preserve" x="20" y="251.50" fill="#c9d1d9" font-size="6">                                                                                           .+=*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@%%%%@%%@@@@%@@@@@@@@@@@%@@@@@@@@%+:-.</text></g>
+<clipPath id="line19"><rect x="20" y="253.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="1.330s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line19)"><text xml:space="preserve" x="20" y="260.25" fill="#c9d1d9" font-size="6">                                                                                            -##@@@@@@@@@@@@@@@@@%@@@@@@@@@@%%@%@%%%@%%%%@@%%%%%%%@@%%%%%%%@@@@@@@@@@@@@@#*=.</text></g>
+<clipPath id="line20"><rect x="20" y="262.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="1.400s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line20)"><text xml:space="preserve" x="20" y="269.00" fill="#c9d1d9" font-size="6">                                                                                            .:+@@@@@@@@@@@@@@@@%@@@@@@@@@@%%%%%%#%%@@%#%%%%%%@%%@%%%@%@@@@@@@%@%@@%@@@@@@+.</text></g>
+<clipPath id="line21"><rect x="20" y="270.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="1.470s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line21)"><text xml:space="preserve" x="20" y="277.75" fill="#c9d1d9" font-size="6">                                                                                             :%%%%%%%%@@@@@@@@%%%%@@%@@@@@@@%%%###%@%#*%##%##%##@%%%%@@%@@@@%%@@@@@@@@@#++=.</text></g>
+<clipPath id="line22"><rect x="20" y="279.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="1.540s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line22)"><text xml:space="preserve" x="20" y="286.50" fill="#c9d1d9" font-size="6">                                                                                              -#%#**%@@@@@@@%######%%##%%%@@@@@@%%@%#**%%%#%%%%#@@%%%@@@@@@@@%@@@@@@@@#-:. ..</text></g>
+<clipPath id="line23"><rect x="20" y="288.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="1.610s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line23)"><text xml:space="preserve" x="20" y="295.25" fill="#c9d1d9" font-size="6">                                                                                               *#+=+**%@@@@###*+*#%%%@@@@@@%%%%%%%@#**#@@%%%@@@@@@@@%%@@@@@@@@@@@@@@@@*-::</text></g>
+<clipPath id="line24"><rect x="20" y="297.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="1.680s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line24)"><text xml:space="preserve" x="20" y="304.00" fill="#c9d1d9" font-size="6">                                                                                               -*+**###@@@#*#*+**%@@%%%%@@%%@@%###****###%%%%%#%#+**#@%%%@@@@@@@@@@%#%#:</text></g>
+<clipPath id="line25"><rect x="20" y="305.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="1.750s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line25)"><text xml:space="preserve" x="20" y="312.75" fill="#c9d1d9" font-size="6">                                                                                               :++##+=*%@%*=+*#%%%%%%%%@@@@%@@@#*#**+++*%%%%@@@@@@%##%%%%%@@@@@@%%@#==..</text></g>
+<clipPath id="line26"><rect x="20" y="314.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="1.820s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line26)"><text xml:space="preserve" x="20" y="321.50" fill="#c9d1d9" font-size="6">                                                                                                =+=++**#%#+===+%%%%%%%@@@@@@@@@%#%%#*+==*##%@@@%**%@%*+*#%@@%%%@@%#:=.</text></g>
+<clipPath id="line27"><rect x="20" y="323.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="1.890s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line27)"><text xml:space="preserve" x="20" y="330.25" fill="#c9d1d9" font-size="6">                                                                                                 -++===+#*+===+%##%%%@@@@@@@@@@@%#**#+=#%@@@@@@%+**++#%#+#@@%*+%%*</text></g>
+<clipPath id="line28"><rect x="20" y="332.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="1.960s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line28)"><text xml:space="preserve" x="20" y="339.00" fill="#c9d1d9" font-size="6">                                                                                                  :=++==++++===*%%%%%@@@@@@@@@@%#++-=%@@%%%@@@%%@@@%%##%#%@%#+*+</text></g>
+<clipPath id="line29"><rect x="20" y="340.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="2.030s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line29)"><text xml:space="preserve" x="20" y="347.75" fill="#c9d1d9" font-size="6">                                                                                                    =#++**+=====*%%%%%%@@@@@@%#+++==-*%@@@@@@@%%%######*+%@#==:</text></g>
+<clipPath id="line30"><rect x="20" y="349.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="2.100s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line30)"><text xml:space="preserve" x="20" y="356.50" fill="#c9d1d9" font-size="6">                                                                                                    .=#%%*+=======+#%%@@@@%##*++++=---*%@@@@@@%%%###%%#+**===.</text></g>
+<clipPath id="line31"><rect x="20" y="358.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="2.170s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line31)"><text xml:space="preserve" x="20" y="365.25" fill="#c9d1d9" font-size="6">                                                                                                     -=-##+========--=++***+==++===-:--+%@@@@@%####%#+=+=-:.</text></g>
+<clipPath id="line32"><rect x="20" y="367.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="2.240s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line32)"><text xml:space="preserve" x="20" y="374.00" fill="#c9d1d9" font-size="6">                                                                                                   .-+=-*%+=====-----===++++****++++*+=+##%%%%%%%#*=-=++#+.</text></g>
+<clipPath id="line33"><rect x="20" y="375.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="2.310s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line33)"><text xml:space="preserve" x="20" y="382.75" fill="#c9d1d9" font-size="6">                                                                                                    .+- =%*+===------=====+++++==+=----=-------:---=-. -*-</text></g>
+<clipPath id="line34"><rect x="20" y="384.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="2.380s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line34)"><text xml:space="preserve" x="20" y="391.50" fill="#c9d1d9" font-size="6">                                                                                                    .=: :+*++=====---=======+++-=+=::::::::::-------   :=</text></g>
+<clipPath id="line35"><rect x="20" y="393.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="2.450s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line35)"><text xml:space="preserve" x="20" y="400.25" fill="#c9d1d9" font-size="6">                                                                                                    :*-   -++==========++++******++=-::::::::------  .=##=.</text></g>
+<clipPath id="line36"><rect x="20" y="402.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="2.520s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line36)"><text xml:space="preserve" x="20" y="409.00" fill="#c9d1d9" font-size="6">                                                                                                    .*=   -=+++=======+****#####*####*=---------=:     -=.</text></g>
+<clipPath id="line37"><rect x="20" y="410.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="2.590s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line37)"><text xml:space="preserve" x="20" y="417.75" fill="#c9d1d9" font-size="6">                                                                                                    .=:  .=+=++=========++++**+++=====++=------=.      -=.</text></g>
+<clipPath id="line38"><rect x="20" y="419.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="2.660s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line38)"><text xml:space="preserve" x="20" y="426.50" fill="#c9d1d9" font-size="6">                                                                                                      :*@%*====++===+++++++***###*++=====---===+#-.   .+#:</text></g>
+<clipPath id="line39"><rect x="20" y="428.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="2.730s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line39)"><text xml:space="preserve" x="20" y="435.25" fill="#c9d1d9" font-size="6">                                                                                                     -%@@%+=====+++======+===============-=====#@@%:   =*.</text></g>
+<clipPath id="line40"><rect x="20" y="437.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="2.800s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line40)"><text xml:space="preserve" x="20" y="444.00" fill="#c9d1d9" font-size="6">                                                                                                     =@@@#+======+++========+++=-::-----===---=%@@%-</text></g>
+<clipPath id="line41"><rect x="20" y="445.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="2.870s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line41)"><text xml:space="preserve" x="20" y="452.75" fill="#c9d1d9" font-size="6">                                                                                                     +@@@@%+======+++++++++++++==-----===----*@@@@%:</text></g>
+<clipPath id="line42"><rect x="20" y="454.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="2.940s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line42)"><text xml:space="preserve" x="20" y="461.50" fill="#c9d1d9" font-size="6">                                                                                                    =@@@@@@@#*=====+++=+*######**+++=-----+*%@@%%@%-</text></g>
+<clipPath id="line43"><rect x="20" y="463.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="3.010s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line43)"><text xml:space="preserve" x="20" y="470.25" fill="#c9d1d9" font-size="6">                                                                                                   .#@@@@@@@@@%#*+++++++++++===------=+*#%%@%%@@@%%+</text></g>
+<clipPath id="line44"><rect x="20" y="472.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="3.080s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line44)"><text xml:space="preserve" x="20" y="479.00" fill="#c9d1d9" font-size="6">                                                                                                  .#@@@@@@@@@@@@@%%#*+++++++======+#%%%%%%%@@@@@@@@@%-</text></g>
+<clipPath id="line45"><rect x="20" y="480.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="3.150s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line45)"><text xml:space="preserve" x="20" y="487.75" fill="#c9d1d9" font-size="6">                                                                                                -@@@@@@@@@@@@@@@@@@@@%#******##%%@@%@@@@@@@@@@@@@@@@@%:</text></g>
+<clipPath id="line46"><rect x="20" y="489.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="3.220s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line46)"><text xml:space="preserve" x="20" y="496.50" fill="#c9d1d9" font-size="6">                                                                                           :=%@@@@@@@@@@@@@@@@@@@@@@@@@@%%#*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@#-</text></g>
+<clipPath id="line47"><rect x="20" y="498.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="3.290s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line47)"><text xml:space="preserve" x="20" y="505.25" fill="#c9d1d9" font-size="6">                                                                                     .-+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=:</text></g>
+<clipPath id="line48"><rect x="20" y="507.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="3.360s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line48)"><text xml:space="preserve" x="20" y="514.00" fill="#c9d1d9" font-size="6">                                                                               .-+#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#+-.</text></g>
+<clipPath id="line49"><rect x="20" y="515.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="3.430s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line49)"><text xml:space="preserve" x="20" y="522.75" fill="#c9d1d9" font-size="6">                                                                        .-+*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+:</text></g>
+<clipPath id="line50"><rect x="20" y="524.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="3.500s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line50)"><text xml:space="preserve" x="20" y="531.50" fill="#c9d1d9" font-size="6">                                                                  :+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+:</text></g>
+<clipPath id="line51"><rect x="20" y="533.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="3.570s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line51)"><text xml:space="preserve" x="20" y="540.25" fill="#c9d1d9" font-size="6">                                                         .:-+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*=:</text></g>
+<clipPath id="line52"><rect x="20" y="542.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="3.640s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line52)"><text xml:space="preserve" x="20" y="549.00" fill="#c9d1d9" font-size="6">                                                  .-=*#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%*+-.</text></g>
+<clipPath id="line53"><rect x="20" y="550.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="3.710s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line53)"><text xml:space="preserve" x="20" y="557.75" fill="#c9d1d9" font-size="6">                                             :+#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*=-.</text></g>
+<clipPath id="line54"><rect x="20" y="559.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="3.780s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line54)"><text xml:space="preserve" x="20" y="566.50" fill="#c9d1d9" font-size="6">                                        =%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+:</text></g>
+<clipPath id="line55"><rect x="20" y="568.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="3.850s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line55)"><text xml:space="preserve" x="20" y="575.25" fill="#c9d1d9" font-size="6">                                      :%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*</text></g>
+<clipPath id="line56"><rect x="20" y="577.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="3.920s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line56)"><text xml:space="preserve" x="20" y="584.00" fill="#c9d1d9" font-size="6">                                     .*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*</text></g>
+<clipPath id="line57"><rect x="20" y="585.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="3.990s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line57)"><text xml:space="preserve" x="20" y="592.75" fill="#c9d1d9" font-size="6">                                     :%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:</text></g>
+<clipPath id="line58"><rect x="20" y="594.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="4.060s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line58)"><text xml:space="preserve" x="20" y="601.50" fill="#c9d1d9" font-size="6">                                    .+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=</text></g>
+<clipPath id="line59"><rect x="20" y="603.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="4.130s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line59)"><text xml:space="preserve" x="20" y="610.25" fill="#c9d1d9" font-size="6">                                    :%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#</text></g>
+<clipPath id="line60"><rect x="20" y="612.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="4.200s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line60)"><text xml:space="preserve" x="20" y="619.00" fill="#c9d1d9" font-size="6">                                    +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%.</text></g>
+<clipPath id="line61"><rect x="20" y="620.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="4.270s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line61)"><text xml:space="preserve" x="20" y="627.75" fill="#c9d1d9" font-size="6">                                   -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*</text></g>
+<clipPath id="line62"><rect x="20" y="629.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="4.340s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line62)"><text xml:space="preserve" x="20" y="636.50" fill="#c9d1d9" font-size="6">                                  .%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-</text></g>
+<clipPath id="line63"><rect x="20" y="638.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="4.410s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line63)"><text xml:space="preserve" x="20" y="645.25" fill="#c9d1d9" font-size="6">                                  +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:</text></g>
+<clipPath id="line64"><rect x="20" y="647.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="4.480s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line64)"><text xml:space="preserve" x="20" y="654.00" fill="#c9d1d9" font-size="6">                                 :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*</text></g>
+<clipPath id="line65"><rect x="20" y="655.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="4.550s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line65)"><text xml:space="preserve" x="20" y="662.75" fill="#c9d1d9" font-size="6">                                 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-</text></g>
+<clipPath id="line66"><rect x="20" y="664.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="4.620s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line66)"><text xml:space="preserve" x="20" y="671.50" fill="#c9d1d9" font-size="6">                                :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.</text></g>
+<clipPath id="line67"><rect x="20" y="673.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="4.690s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line67)"><text xml:space="preserve" x="20" y="680.25" fill="#c9d1d9" font-size="6">                                #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=</text></g>
+<clipPath id="line68"><rect x="20" y="682.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="4.760s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line68)"><text xml:space="preserve" x="20" y="689.00" fill="#c9d1d9" font-size="6">                               -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.</text></g>
+<clipPath id="line69"><rect x="20" y="690.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="4.830s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line69)"><text xml:space="preserve" x="20" y="697.75" fill="#c9d1d9" font-size="6">                               +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:</text></g>
+<clipPath id="line70"><rect x="20" y="699.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="4.900s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line70)"><text xml:space="preserve" x="20" y="706.50" fill="#c9d1d9" font-size="6">                              .%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=</text></g>
+<clipPath id="line71"><rect x="20" y="708.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="4.970s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line71)"><text xml:space="preserve" x="20" y="715.25" fill="#c9d1d9" font-size="6">                              +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.</text></g>
+<clipPath id="line72"><rect x="20" y="717.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="5.040s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line72)"><text xml:space="preserve" x="20" y="724.00" fill="#c9d1d9" font-size="6">                             .#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:</text></g>
+<clipPath id="line73"><rect x="20" y="725.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="5.110s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line73)"><text xml:space="preserve" x="20" y="732.75" fill="#c9d1d9" font-size="6">                             :%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=</text></g>
+<clipPath id="line74"><rect x="20" y="734.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="5.180s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line74)"><text xml:space="preserve" x="20" y="741.50" fill="#c9d1d9" font-size="6">                             +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+.</text></g>
+<clipPath id="line75"><rect x="20" y="743.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="5.250s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line75)"><text xml:space="preserve" x="20" y="750.25" fill="#c9d1d9" font-size="6">                             *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:</text></g>
+<clipPath id="line76"><rect x="20" y="752.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="5.320s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line76)"><text xml:space="preserve" x="20" y="759.00" fill="#c9d1d9" font-size="6">                            .%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:</text></g>
+<clipPath id="line77"><rect x="20" y="760.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="5.390s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line77)"><text xml:space="preserve" x="20" y="767.75" fill="#c9d1d9" font-size="6">                            -%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-</text></g>
+<clipPath id="line78"><rect x="20" y="769.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="5.460s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line78)"><text xml:space="preserve" x="20" y="776.50" fill="#c9d1d9" font-size="6">                            *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+</text></g>
+<clipPath id="line79"><rect x="20" y="778.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="5.530s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line79)"><text xml:space="preserve" x="20" y="785.25" fill="#c9d1d9" font-size="6">                           :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:</text></g>
+<clipPath id="line80"><rect x="20" y="787.00" width="0" height="8.5"><animate attributeName="width" to="800" begin="5.600s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line80)"><text xml:space="preserve" x="20" y="794.00" fill="#c9d1d9" font-size="6">                           =%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=</text></g>
+<clipPath id="line81"><rect x="20" y="795.75" width="0" height="8.5"><animate attributeName="width" to="800" begin="5.670s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line81)"><text xml:space="preserve" x="20" y="802.75" fill="#c9d1d9" font-size="6">                           *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.</text></g>
+<clipPath id="line82"><rect x="20" y="804.50" width="0" height="8.5"><animate attributeName="width" to="800" begin="5.740s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line82)"><text xml:space="preserve" x="20" y="811.50" fill="#c9d1d9" font-size="6">                          :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-</text></g>
+<clipPath id="line83"><rect x="20" y="813.25" width="0" height="8.5"><animate attributeName="width" to="800" begin="5.810s" dur="0.07s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#line83)"><text xml:space="preserve" x="20" y="820.25" fill="#c9d1d9" font-size="6">                          =%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.</text></g>
+<line x1="0" y1="837" x2="840" y2="837" stroke="#30363d"/>
+<text x="20" y="856" fill="#7d8590" font-size="13">minh2026@github:~$ whoami <tspan fill="#c9d1d9">Pham Duc Minh</tspan></text>
+<rect x="402" y="844" width="8" height="14" fill="#c9d1d9"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/></rect>
 </svg>
