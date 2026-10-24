@@ -18,4 +18,4 @@
 <h3><code>minh2026@github ~ $ ./links.sh</code></h3>
 
 <b>Software Engineer · Freelancer</b>
-<img src="vuacobac.png" width="100%">
+<img src="vuacobac2.png" width="100%">
