@@ -1,0 +1,15 @@
+<svg xmlns="http://w3.org" width="500" height="300">
+  <style>
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    .fade-image {
+      animation: fadeIn 3s ease-in-out;
+    }
+  </style>
+  <g class="fade-image">
+    <!-- Thẻ image hoặc nội dung SVG của bạn ở đây -->
+    <image href="https://raw.githubusercontent.com/minh2026/minh2026/refs/heads/main/vuacobac2.png" width="500" height="300" />
+  </g>
+</svg>
