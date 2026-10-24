@@ -1,15 +1,14 @@
-<svg xmlns="http://w3.org" width="500" height="300">
+<svg xmlns="http://w3.org" viewBox="0 0 540 720" width="100%" height="100%">
   <style>
     @keyframes fadeIn {
       from { opacity: 0; }
       to { opacity: 1; }
     }
     .fade-image {
-      animation: fadeIn 3s ease-in-out;
+      animation: fadeIn 3s ease-in-out forwards;
     }
   </style>
   <g class="fade-image">
-    <!-- Thẻ image hoặc nội dung SVG của bạn ở đây -->
-    <image href="vuacobac2.png" width="500" height="300" />
+    <image href="vuacobac2.png" width="540" height="720" x="0" y="0" />
   </g>
 </svg>
