@@ -1,3 +1,4 @@
+[![Starred on StarSwap](https://www.fenriryt.me/badge/minh2026)](https://www.fenriryt.me/u/minh2026?ref=badge)
 <div align="center">
 
 <h3><code>minh2026@github ~ $ ./contributions.sh</code></h3>
@@ -19,4 +20,4 @@
 
 <b>Software Engineer · Freelancer</b>
 <img src="vuacobac3.gif" width="100%">
-[![Starred on StarSwap](https://www.fenriryt.me/badge/minh2026)](https://www.fenriryt.me/u/minh2026?ref=badge)
+
