@@ -8,24 +8,26 @@
 <circle cx="20" cy="15" r="5" fill="#ff5f56" /><circle cx="36" cy="15" r="5" fill="#ffbd2e" /><circle cx="52" cy="15" r="5" fill="#27c93f" />
 <text x="420" y="19" fill="#7d8590" font-size="12" text-anchor="middle">minh2026@github: ~$ ./portrait.sh</text>
 
-<!-- Hình ảnh Braille art mới -->
-<text x="50" y="100" fill="#c9d1d9" font-size="12" xml:space="preserve">⠀⠀⢀⣤⣤⣤⣤⣤⣤⣀⡀⠀⠀⢀⣀⠄⠀⠀⣀⣠⣤⡤⠤⠀⠀⠀⠀⠀</text>
-<text x="50" y="120" fill="#c9d1d9" font-size="12" xml:space="preserve">⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀⣠⣾⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀</text>
-<text x="50" y="140" fill="#c9d1d9" font-size="12" xml:space="preserve">⡼⠋⠁⠀⠈⠉⠙⠛⠛⠉⣡⣿⡟⠀⠀⣼⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-<text x="50" y="160" fill="#c9d1d9" font-size="12" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⠁⠀⠀⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-<text x="50" y="180" fill="#c9d1d9" font-size="12" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⠀⠀⠘⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-<text x="50" y="200" fill="#c9d1d9" font-size="12" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⠀⠀⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-<text x="50" y="220" fill="#c9d1d9" font-size="12" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⡀⠀⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-<text x="50" y="240" fill="#c9d1d9" font-size="12" xml:space="preserve">⠀⠀⠀⢀⣤⣶⣶⣶⣿⣿⣿⣿⡇⠀⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-<text x="50" y="260" fill="#c9d1d9" font-size="12" xml:space="preserve">⠀⠀⠀⠈⠉⠉⠙⢿⣿⣿⣿⣿⡇⠀⠀⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-<text x="50" y="280" fill="#c9d1d9" font-size="12" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⡇⠀⠀⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-<text x="50" y="300" fill="#c9d1d9" font-size="12" xml:space="preserve">⠀⠀⠀⠀⠀⠶⢶⣶⣾⣿⣿⣿⠁⠀⢠⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-<text x="50" y="320" fill="#c9d1d9" font-size="12" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⡏⠀⢀⣾⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-<text x="50" y="340" fill="#c9d1d9" font-size="12" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡿⠀⢀⣾⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-<text x="50" y="360" fill="#c9d1d9" font-size="12" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⢀⣾⡟⢁⣴⣟⣡⣤⣤⣶⣶⣶⣶⣶⣦⣤⣀⠀⠀⠀⠀</text>
-<text x="50" y="380" fill="#c9d1d9" font-size="12" xml:space="preserve">⠀⠀⠀⠀⠀⠀⢠⣾⣟⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣴⠞</text>
-<text x="50" y="400" fill="#c9d1d9" font-size="12" xml:space="preserve">⠀⠀⠀⠀⢀⣴⡿⠿⠛⠛⠋⠉⠉⠉⠉⠉⠉⠛⠛⠿⣿⣿⣿⣿⣿⠟⠁⠀</text>
-<text x="50" y="420" fill="#c9d1d9" font-size="12" xml:space="preserve">⠀⠀⠀⠘⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⠟⠁</text>
+<!-- Hình Braille Art phóng to full màn (font-size="20") và căn chính giữa -->
+<g text-anchor="middle" font-size="20" fill="#c9d1d9">
+  <text x="420" y="100" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.150s" dur="0.12s" fill="freeze" />⠀⠀⢀⣤⣤⣤⣤⣤⣤⣀⡀⠀⠀⢀⣀⠄⠀⠀⣀⣠⣤⡤⠤⠀⠀⠀⠀⠀</text>
+  <text x="420" y="139" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.205s" dur="0.12s" fill="freeze" />⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀⣠⣾⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="178" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.260s" dur="0.12s" fill="freeze" />⡼⠋⠁⠀⠈⠉⠙⠛⠛⠉⣡⣿⡟⠀⠀⣼⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="217" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.315s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⠁⠀⠀⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="256" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.370s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⠀⠀⠘⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="295" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.425s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⠀⠀⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="334" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.480s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⡀⠀⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="373" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.535s" dur="0.12s" fill="freeze" />⠀⠀⠀⢀⣤⣶⣶⣶⣿⣿⣿⣿⡇⠀⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="412" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.590s" dur="0.12s" fill="freeze" />⠀⠀⠀⠈⠉⠉⠙⢿⣿⣿⣿⣿⡇⠀⠀⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="451" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.645s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⡇⠀⠀⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="490" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.700s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠶⢶⣶⣾⣿⣿⣿⠁⠀⢠⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="529" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.755s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⡏⠀⢀⣾⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="568" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.810s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡿⠀⢀⣾⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="607" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.865s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⢀⣾⡟⢁⣴⣟⣡⣤⣤⣶⣶⣶⣶⣶⣦⣤⣀⠀⠀⠀⠀</text>
+  <text x="420" y="646" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.920s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⢠⣾⣟⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣴⠞</text>
+  <text x="420" y="685" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.975s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⢀⣴⡿⠿⠛⠛⠋⠉⠉⠉⠉⠉⠉⠛⠛⠿⣿⣿⣿⣿⣿⠟⠁⠀</text>
+  <text x="420" y="724" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.030s" dur="0.12s" fill="freeze" />⠀⠀⠀⠘⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⠟⠁</text>
+</g>
 
 <line x1="20" y1="808" x2="820" y2="808" stroke="#30363d" />
 <text x="20" y="830" fill="#7d8590" font-size="12">minh2026@github: ~$ whoami <tspan fill="#c9d1d9">Pham Duc Minh</tspan><tspan fill="#58a6ff"> ▋</tspan></text>
