@@ -1,23 +1,35 @@
 [![Starred on StarSwap](https://www.fenriryt.me/badge/minh2026)](https://www.fenriryt.me/u/minh2026?ref=badge)
-<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="880" viewBox="0 0 840 880" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111722" /><stop offset="1" stop-color="#0d1117" /></linearGradient>
+</defs>
+<rect width="840" height="880" rx="12" fill="url(#bg)" />
+<rect x="0.5" y="0.5" width="839" height="879" rx="12" fill="none" stroke="#30363d" />
+<line x1="0" y1="30" x2="840" y2="30" stroke="#30363d" />
+<circle cx="20" cy="15" r="5" fill="#ff5f56" /><circle cx="36" cy="15" r="5" fill="#ffbd2e" /><circle cx="52" cy="15" r="5" fill="#27c93f" />
+<text x="420" y="19" fill="#7d8590" font-size="12" text-anchor="middle">minh2026@github: ~$ ./portrait.sh</text>
 
-<h3><code>minh2026@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
+<!-- Hình Braille Art phóng to full màn (font-size="20") và căn chính giữa -->
+<g text-anchor="middle" font-size="20" fill="#c9d1d9">
+  <text x="420" y="100" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.150s" dur="0.12s" fill="freeze" />⠀⠀⢀⣤⣤⣤⣤⣤⣤⣀⡀⠀⠀⢀⣀⠄⠀⠀⣀⣠⣤⡤⠤⠀⠀⠀⠀⠀</text>
+  <text x="420" y="139" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.205s" dur="0.12s" fill="freeze" />⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀⣠⣾⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="178" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.260s" dur="0.12s" fill="freeze" />⡼⠋⠁⠀⠈⠉⠙⠛⠛⠉⣡⣿⡟⠀⠀⣼⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="217" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.315s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⠁⠀⠀⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="256" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.370s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⠀⠀⠘⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="295" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.425s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⠀⠀⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="334" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.480s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⡀⠀⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="373" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.535s" dur="0.12s" fill="freeze" />⠀⠀⠀⢀⣤⣶⣶⣶⣿⣿⣿⣿⡇⠀⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="412" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.590s" dur="0.12s" fill="freeze" />⠀⠀⠀⠈⠉⠉⠙⢿⣿⣿⣿⣿⡇⠀⠀⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="451" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.645s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⡇⠀⠀⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="490" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.700s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠶⢶⣶⣾⣿⣿⣿⠁⠀⢠⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="529" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.755s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⡏⠀⢀⣾⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="568" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.810s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡿⠀⢀⣾⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="607" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.865s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⢀⣾⡟⢁⣴⣟⣡⣤⣤⣶⣶⣶⣶⣶⣦⣤⣀⠀⠀⠀⠀</text>
+  <text x="420" y="646" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.920s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⢠⣾⣟⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣴⠞</text>
+  <text x="420" y="685" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.975s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⢀⣴⡿⠿⠛⠛⠋⠉⠉⠉⠉⠉⠉⠛⠛⠿⣿⣿⣿⣿⣿⠟⠁⠀</text>
+  <text x="420" y="724" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.030s" dur="0.12s" fill="freeze" />⠀⠀⠀⠘⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⠟⠁</text>
+</g>
 
-<br><br>
-
-<h3><code>minh2026@github ~ $ ./whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top"><img src="./ascii-portrait1.svg" width="370" alt="ASCII portrait of Minh" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" alt="Software Engineer based in Vietnam" /></td>
-  </tr>
-</table>
-
-<br>
-
-<h3><code>minh2026@github ~ $ ./my_mini_casino.sh</code></h3>
-
-<b>Software Engineer · Freelancer</b>
-<img src="vuacobac3.gif" width="100%">
-
+<line x1="20" y1="808" x2="820" y2="808" stroke="#30363d" />
+<text x="20" y="830" fill="#7d8590" font-size="12">minh2026@github: ~$ whoami <tspan fill="#c9d1d9">Pham Duc Minh</tspan><tspan fill="#58a6ff"> ▋</tspan></text>
+</svg>
