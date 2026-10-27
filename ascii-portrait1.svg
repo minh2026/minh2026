@@ -4,7 +4,11 @@
       <stop offset="0%" stop-color="#0d1117"/>
       <stop offset="100%" stop-color="#161b22"/>
     </linearGradient>
-    <clipPath id="artClip"><rect x="18" y="48" width="804" height="748" rx="2"/></clipPath>
+    <clipPath id="artClip">
+      <rect x="18" y="48" width="804" height="0" rx="2">
+        <animate attributeName="height" from="0" to="748" dur="4s" fill="freeze"/>
+      </rect>
+    </clipPath>
   </defs>
   <rect width="840" height="880" rx="18" fill="url(#bg)"/>
   <rect x="1.5" y="1.5" width="837" height="877" rx="17" fill="none" stroke="#30363d" stroke-width="3"/>
@@ -79,5 +83,6 @@
     <text x="420" y="759.4" text-anchor="middle">                           .-+####+++===+**###%%%%%#%%%%%%%%##*******%%+                            </text>
     <text x="420" y="770.6" text-anchor="middle">                                  =#%%%#==--===+***#########%%%.....                               </text>
   </g>
+  <path d="M18 808 H822" stroke="#30363d" stroke-width="1"/>
   <text x="24" y="850" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#c9d1d9">minh2026@github: ~$ whoami Pham Duc Minh <tspan fill="#58a6ff">▋</tspan></text>
 </svg>
