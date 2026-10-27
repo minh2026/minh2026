@@ -1,34 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="880" viewBox="0 0 840 880" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111722" /><stop offset="1" stop-color="#0d1117" /></linearGradient>
-</defs>
-<rect width="840" height="880" rx="12" fill="url(#bg)" />
-<rect x="0.5" y="0.5" width="839" height="879" rx="12" fill="none" stroke="#30363d" />
-<line x1="0" y1="30" x2="840" y2="30" stroke="#30363d" />
-<circle cx="20" cy="15" r="5" fill="#ff5f56" /><circle cx="36" cy="15" r="5" fill="#ffbd2e" /><circle cx="52" cy="15" r="5" fill="#27c93f" />
-<text x="420" y="19" fill="#7d8590" font-size="12" text-anchor="middle">minh2026@github: ~$ ./portrait.sh</text>
-
-<!-- Hình Braille Art phóng to full màn (font-size="20") và căn chính giữa -->
-<g text-anchor="middle" font-size="20" fill="#c9d1d9">
-  <text x="420" y="100" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.150s" dur="0.12s" fill="freeze" />⠀⠀⢀⣤⣤⣤⣤⣤⣤⣀⡀⠀⠀⢀⣀⠄⠀⠀⣀⣠⣤⡤⠤⠀⠀⠀⠀⠀</text>
-  <text x="420" y="139" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.205s" dur="0.12s" fill="freeze" />⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀⣠⣾⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="420" y="178" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.260s" dur="0.12s" fill="freeze" />⡼⠋⠁⠀⠈⠉⠙⠛⠛⠉⣡⣿⡟⠀⠀⣼⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="420" y="217" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.315s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⠁⠀⠀⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="420" y="256" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.370s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⠀⠀⠘⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="420" y="295" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.425s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⠀⠀⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="420" y="334" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.480s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⡀⠀⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="420" y="373" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.535s" dur="0.12s" fill="freeze" />⠀⠀⠀⢀⣤⣶⣶⣶⣿⣿⣿⣿⡇⠀⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="420" y="412" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.590s" dur="0.12s" fill="freeze" />⠀⠀⠀⠈⠉⠉⠙⢿⣿⣿⣿⣿⡇⠀⠀⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="420" y="451" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.645s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⡇⠀⠀⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="420" y="490" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.700s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠶⢶⣶⣾⣿⣿⣿⠁⠀⢠⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="420" y="529" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.755s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⡏⠀⢀⣾⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="420" y="568" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.810s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡿⠀⢀⣾⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="420" y="607" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.865s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⢀⣾⡟⢁⣴⣟⣡⣤⣤⣶⣶⣶⣶⣶⣦⣤⣀⠀⠀⠀⠀</text>
-  <text x="420" y="646" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.920s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⢠⣾⣟⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣴⠞</text>
-  <text x="420" y="685" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.975s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⢀⣴⡿⠿⠛⠛⠋⠉⠉⠉⠉⠉⠉⠛⠛⠿⣿⣿⣿⣿⣿⠟⠁⠀</text>
-  <text x="420" y="724" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.030s" dur="0.12s" fill="freeze" />⠀⠀⠀⠘⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⠟⠁</text>
-</g>
-
-<line x1="20" y1="808" x2="820" y2="808" stroke="#30363d" />
-<text x="20" y="830" fill="#7d8590" font-size="12">minh2026@github: ~$ whoami <tspan fill="#c9d1d9">Pham Duc Minh</tspan><tspan fill="#58a6ff"> ▋</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="880" viewBox="0 0 840 880">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <clipPath id="artClip"><rect x="18" y="48" width="804" height="748" rx="2"/></clipPath>
+  </defs>
+  <rect width="840" height="880" rx="18" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="837" height="877" rx="17" fill="none" stroke="#30363d" stroke-width="3"/>
+  <path d="M18 1.5 H822 A16.5 16.5 0 0 1 838.5 18 V48 H1.5 V18 A16.5 16.5 0 0 1 18 1.5Z" fill="#161b22"/>
+  <circle cx="25" cy="25" r="6" fill="#ff5f56"/>
+  <circle cx="45" cy="25" r="6" fill="#ffbd2e"/>
+  <circle cx="65" cy="25" r="6" fill="#27c93f"/>
+  <text x="420" y="31" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#c9d1d9">minh2026@github: ~$ ./portrait.sh</text>
+  <g clip-path="url(#artClip)" font-family="Consolas, 'Courier New', monospace" font-size="8" fill="#c9d1d9" xml:space="preserve">
+    <text x="420" y="65.0" text-anchor="middle">.***##########%%......:+%#.                                    </text>
+    <text x="420" y="76.2" text-anchor="middle">                            ..+**+++**+++++*******.-+##%####=.:##::::::+==.                         </text>
+    <text x="420" y="87.4" text-anchor="middle">                         --.:-=**************+**..-%#==:::::*.:#%+++++-..:-%.                       </text>
+    <text x="420" y="98.6" text-anchor="middle">                      *=.=*##**#****######****-:-***==.::--::*#%%%#%#*===+==.:%-                    </text>
+    <text x="420" y="109.8" text-anchor="middle">                    ##:+#####%%%%**+++=+==--*.:###++==#:.-.-*%#-:::-**#%%*+++#:*%                   </text>
+    <text x="420" y="121.0" text-anchor="middle">                   :#:%##%%%##**+++====-=+=:*=-.:+****::-+##*+++++======-=+#+#=*%                   </text>
+    <text x="420" y="132.2" text-anchor="middle">                   .%+.-%##*+*+++==-#%-::::%@@%==-:.:-+##@@%+**=+++=======++==#%*                   </text>
+    <text x="420" y="143.4" text-anchor="middle">                   .*#==:++#**++===#@-::::-@@@@@@@@@@@@@@@@%:=========***::+#%*+%-                  </text>
+    <text x="420" y="154.6" text-anchor="middle">                  ==:-++#=-:..*###*=-+@+:.-:.%##***++===:-=++****#*=-:-++**%%***+#=                 </text>
+    <text x="420" y="165.8" text-anchor="middle">                 +.:-=---=+%##=+---.....#%########*****+++-::-==++*#%#%#***++*#+#=%                </text>
+    <text x="420" y="177.0" text-anchor="middle">               .#.--=:==:=--==++*##%%%#**=========++++++*****#%%%%%***+++=++++##+**##-              </text>
+    <text x="420" y="188.2" text-anchor="middle">              #:.-=-=---=--*::--:-----==========+=+++++++=====+=======%@#=+*++*+#*+=%%.             </text>
+    <text x="420" y="199.4" text-anchor="middle">              %=-.::-:=:---:-@%-@@@-***-------------------------=+@*=+@@@#=++*+++++*%%.             </text>
+    <text x="420" y="210.6" text-anchor="middle">              #+=-:.::--:-%@:::@@@--@%#@:@--@=---*==--@+-@-%+=#*-@@@@-@+=@======**#*%%.             </text>
+    <text x="420" y="221.8" text-anchor="middle">              #+-+==--...::---:#@@*=%:+@-@--@+:--::-@-%*=@=%#*@@-@--+*-====++***+**#%%.             </text>
+    <text x="420" y="233.0" text-anchor="middle">              .+-+==-==-:::.....:::::::-::--:::::--:--------------===+++*****++*++#*%%.             </text>
+    <text x="420" y="244.2" text-anchor="middle">               .%-=+++==::-=-===+========-------=====-=========+++++**+*+**+++*+**##%%.             </text>
+    <text x="420" y="255.4" text-anchor="middle">               .%+=-**::==::===+++=+++++++++==+=========+=++++++=+++=+==+*****++**%+%%.             </text>
+    <text x="420" y="266.6" text-anchor="middle">                :#=++=:::==+===++==============@@@@%@%%=======*@@=====++++=*+*++###+%%.             </text>
+    <text x="420" y="277.8" text-anchor="middle">                 *==---:-=+=++==@@@@@%@@@@@@@@@###*##%@@*==+@@@%%@@+====++=**++*##*=%%.             </text>
+    <text x="420" y="289.0" text-anchor="middle">                  *=.:-=+++=*@@@%%###*###%@@@@@#***#####@@@@######%@@=====++++*###+=*#:             </text>
+    <text x="420" y="300.2" text-anchor="middle">                  -:.--=++++@@@@@@%#**##**@#==%@%#*###@@@%%########%@======++*****=++##             </text>
+    <text x="420" y="311.4" text-anchor="middle">                 ::.--=+*+++======@@%#**%@*====@@@*##@@====@@@@###%%@====++++***===++##             </text>
+    <text x="420" y="322.6" text-anchor="middle">                #:.:+++*==*==++====@@%**@@+-==*@@%*##%@======@@###@@======+++***==+**##             </text>
+    <text x="420" y="333.8" text-anchor="middle">                +:-++**+++*+=+++===*@@***@@==-=@@%*##%@-=-===@@##%@#===++==++**===+##+*%            </text>
+    <text x="420" y="345.0" text-anchor="middle">               :-=+*+++***=+*===+==@@#*#@@=---=@@%*###@@-===%@@##@@====+=++***+===***+*%            </text>
+    <text x="420" y="356.2" text-anchor="middle">              :--++**+*+++*+****==#@####@@-----@@%*###@*--==%@%##@@=======++++==+=+***+%            </text>
+    <text x="420" y="367.4" text-anchor="middle">              :-:++========++++===+#@%#*#@+-----@@%#%@*---==#@%#%@@========+=**+==+**++%            </text>
+    <text x="420" y="378.6" text-anchor="middle">              :=:.-==:====--=--=====@@%***@@:---@@%*%@*-----==@%@@-========+*==*==**+**%            </text>
+    <text x="420" y="389.8" text-anchor="middle">              .%-.:--=::==-==---::--@%%*++@=...*@%%##%@------%@%#%@@===++**+=+++**++#*+%            </text>
+    <text x="420" y="401.0" text-anchor="middle">                *-.:::-====-:=-:--..-@@*#@#---==@@%###%@------@@%#@@=+====+=+**=+++**++#            </text>
+    <text x="420" y="412.2" text-anchor="middle">                #=.::.:=::==.::...--%@@##@%====*@@##*@%-------@@%@@=====---=-=-+==#***%             </text>
+    <text x="420" y="423.4" text-anchor="middle">                #+:..--:-=..-..:::==+@%##@@====%@%##@%---=----@@#%@===-+++-=+--+##***+%             </text>
+    <text x="420" y="434.6" text-anchor="middle">               #:-=:...=:.--.:-===+@@%#%@+=====@%###@+--+-=---@%#@@-=-+---+===-***#*+*=             </text>
+    <text x="420" y="445.8" text-anchor="middle">              .#:-=-.--:==--+==++++=@@##@*=====@@%##@+-+=----=@%%@-----+-----+**#**+#%              </text>
+    <text x="420" y="457.0" text-anchor="middle">              :#--:=:====-+=+++==++=@@##%@====-@@%#@@*-++---==@%#@#----=----+##*****#%              </text>
+    <text x="420" y="468.2" text-anchor="middle">             .%::=..-==++=*****=++==@@%#@===---@@%*@*-----+++@%*%@#-+=--==-=#**+*+**#               </text>
+    <text x="420" y="479.4" text-anchor="middle">            .+:=-.::=++=+***==+**====@@#@=-----%@%*@*=-------@%#@%-+===:::=+#*+**+**%               </text>
+    <text x="420" y="490.6" text-anchor="middle">            %#:--.--===+++**===**====@@#@---=--%@@**@%-----=-@@@@------:-=++*#+****#%               </text>
+    <text x="420" y="501.8" text-anchor="middle">            %%-:=:=+*+*++++=*==++====*@%@------@%%*@@-----=--@@@--=----:==++*+##***+                </text>
+    <text x="420" y="513.0" text-anchor="middle">            %%-.:-==*++***+=***+*=----#@@@------@@#@@----=----@-------:+===+++#***%+                </text>
+    <text x="420" y="524.2" text-anchor="middle">            #%:.--+++****++**==+++-----@@@------+@%@%---=-------------+++===+=+***%*                </text>
+    <text x="420" y="535.4" text-anchor="middle">            ##.-=+++*++++**+===--+==------------@@@@---=------------=+++======+***%#                </text>
+    <text x="420" y="546.6" text-anchor="middle">            #::=+*++**+**===--=---++---=-=------%@*----=---=-==-==+=-+-++=+==++**#%#                </text>
+    <text x="420" y="557.8" text-anchor="middle">           #.-=*++#***+===-:=--=----===-----------------------=---=---======++=++*##                </text>
+    <text x="420" y="569.0" text-anchor="middle">           #:=******+==--==--------@----------#=-----------------------==@@@@#=*+*#%                </text>
+    <text x="420" y="580.2" text-anchor="middle">           %-+***++=--@@*--#@@--@@%@@@*-#@@---*@--=@@@@+-@@@@@@@-#@@@@@==@*+@@=****%                </text>
+    <text x="420" y="591.4" text-anchor="middle">           =--:===----@*@@@=@@-+@%-@--@+-@%@@@*@--@@@@@*---*@-----@@@@-==@#%@%+++**%                </text>
+    <text x="420" y="602.6" text-anchor="middle">            *#.---==--@*:@--@@--%@=@-%@=:@%--=@@-----@@@---*@-----@=--**=@#=#@#++#*%                </text>
+    <text x="420" y="613.8" text-anchor="middle">            #%:.:==-==-+----%@---:=@@=---#=---+#--@@@@*-----%-----***++-=+=++++**+*%                </text>
+    <text x="420" y="625.0" text-anchor="middle">            +#-..:-===---==--------@-----------------------------------=-===+++***+%                </text>
+    <text x="420" y="636.2" text-anchor="middle">             :#=-..-+====--+----+++---*---*---****---***+---=***---*-=*--==++***+*%                 </text>
+    <text x="420" y="647.4" text-anchor="middle">             .#=+:..===-==------**----*-*=*---**+----***=---*==*----+*---==*++**+*%.                </text>
+    <text x="420" y="658.6" text-anchor="middle">              .%==-.--+=-=+-+=-+===:-------------------------------------++*++*****%.               </text>
+    <text x="420" y="669.8" text-anchor="middle">               %-+=:..===-+-+===-------------------:----:--------------==+++**+++#*%                </text>
+    <text x="420" y="681.0" text-anchor="middle">               .%==+:..:+=++==-:--:---@+-%*-@-----@---@@@@--%%=@------=+*=+*++*++#%                 </text>
+    <text x="420" y="692.2" text-anchor="middle">                %-=+--.:++=::-:-::----=@@@-:@@@%-:@---@+-@=-@--%*---==++*++*++**+%%                 </text>
+    <text x="420" y="703.4" text-anchor="middle">                #===--+-.:-...:::::-------------------------------====++*+=*++***##                 </text>
+    <text x="420" y="714.6" text-anchor="middle">                  =#=+===---::....::::----------------------------===+++*+++****%#                  </text>
+    <text x="420" y="725.8" text-anchor="middle">                    #%*+*++===----:.....:::--:-------------==========+++***%%%%%.                   </text>
+    <text x="420" y="737.0" text-anchor="middle">                      =#%%%%****+*++=======::--:----======++*******###%%%%%##%-                     </text>
+    <text x="420" y="748.2" text-anchor="middle">                         :%*++#*#%%%%%%%%%%************#**#%%#%%%%%%####%%%#                        </text>
+    <text x="420" y="759.4" text-anchor="middle">                           .-+####+++===+**###%%%%%#%%%%%%%%##*******%%+                            </text>
+    <text x="420" y="770.6" text-anchor="middle">                                  =#%%%#==--===+***#########%%%.....                               </text>
+  </g>
+  <text x="24" y="850" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#c9d1d9">minh2026@github: ~$ whoami Pham Duc Minh <tspan fill="#58a6ff">▋</tspan></text>
 </svg>
