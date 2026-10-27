@@ -1,40 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="880" viewBox="0 0 1120 880" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<g transform="scale(1.3333333 0.7857143)">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111722" /><stop offset="1" stop-color="#0d1117" /></linearGradient>
 </defs>
-<rect width="1120" height="880" rx="12" fill="url(#bg)" />
-<rect x="0.5" y="0.5" width="1119" height="879" rx="12" fill="none" stroke="#30363d" />
-<line x1="0" y1="30" x2="1120" y2="30" stroke="#30363d" />
+<rect width="840" height="1120" rx="12" fill="url(#bg)" />
+<rect x="0.5" y="0.5" width="839" height="1119" rx="12" fill="none" stroke="#30363d" />
+<line x1="0" y1="30" x2="840" y2="30" stroke="#30363d" />
 <circle cx="20" cy="15" r="5" fill="#ff5f56" /><circle cx="36" cy="15" r="5" fill="#ffbd2e" /><circle cx="52" cy="15" r="5" fill="#27c93f" />
-<text x="560" y="19" fill="#7d8590" font-size="12" text-anchor="middle">minh2026@github: ~$ ./portrait.sh</text>
+<text x="420" y="19" fill="#7d8590" font-size="12" text-anchor="middle">minh2026@github: ~$ ./portrait.sh</text>
 
 <!-- Braille Art mới: giữ nguyên ký tự, căn giữa và hiện lần lượt -->
 <g text-anchor="middle" font-size="13" fill="#c9d1d9">
-  <g transform="translate(560 0) scale(1.22 1) translate(-560 0)">
-  <text x="560" y="60" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.150s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="95" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.205s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="130" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.260s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠖⠃⠀⠀⠀⡁⠀⠀⠀⠀⠀⠐⠆⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⢔⡤⠊⠁⠀⠀⠀⠀⠀</text>
-  <text x="560" y="165" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.315s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠁⠀⠀⠘⠁⢀⠀⠀⠀⠀⢈⠓⠂⠠⡄⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⠿⠞⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="200" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.370s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠒⠁⠀⠠⡚⠁⢀⣙⣀⣈⡩⠬⢁⠀⢑⠶⠤⡆⠤⡀⠀⠀⠀⠀⠀⠀⢀⠴⢲⣋⣽⣷⠟⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="235" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.425s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⢠⠀⠀⣶⠃⠗⣡⣶⣮⣿⡿⠿⠿⢿⣿⣷⣶⣤⣤⠤⠴⠦⠬⣤⣤⠄⣉⠉⠝⢲⣿⡷⠻⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="270" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.480s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠁⡀⡸⠁⣰⣿⡿⠛⠋⣁⡀⠤⠤⢄⡀⠈⠛⢯⣿⣟⣾⣶⣶⣮⣭⣵⣾⣿⣟⠿⠉⢨⠖⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="305" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.535s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⢠⠳⡧⣻⡿⠋⢀⠒⠉⠀⠀⠀⠀⠀⠀⠉⠢⠀⠀⠙⠛⣻⣿⣿⣿⢿⣿⣿⠟⡱⠖⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="340" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.590s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢠⣧⠓⣾⣿⠁⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⢦⣠⣾⣿⠿⣿⣿⣿⡿⣫⠏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="375" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.645s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠂⢃⣸⣿⠇⢠⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣿⠟⢿⠁⠸⡿⣿⣯⡶⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="410" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.700s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢘⡄⠘⣿⣿⠀⠸⡀⠀⠀⠀⠀⠀⢀⣀⣴⣾⣿⡿⡟⡋⠐⡇⠀⢸⣿⣿⠃⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="445" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.755s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢡⠘⢰⣿⡿⡆⠀⣇⠀⣀⣠⣤⣶⣿⢷⢟⠻⠀⠈⠀⠀⠀⡇⠀⣼⣿⣿⠂⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="480" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.810s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠔⢀⡴⢯⣾⠟⡏⢀⣠⣿⣿⣿⣟⢟⡋⠅⠘⠉⠀⠀⠀⠀⢀⠀⠁⢠⣿⣟⠃⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="515" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.865s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠞⣻⣷⡿⢙⣩⣶⡿⠿⠛⠉⠑⢡⡁⠀⠀⠀⠀⠀⠀⢀⠔⠁⠀⣰⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="550" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.920s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣡⣾⣥⣾⢫⡦⠾⠛⠙⠉⠀⠀⢀⣀⠀⠈⠙⠓⠦⠤⠤⠀⠘⠁⢀⡤⣾⡿⠏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="585" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.975s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠔⣴⣾⣿⣿⢟⢝⠢⠃⢀⣤⢴⣾⣮⣷⣶⢿⣶⡤⣐⡀⠀⣠⣤⢶⣪⣿⣿⡿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="620" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.030s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⡀⣦⣾⡿⡛⠵⠺⢈⡠⠶⠿⠥⠥⡭⠉⠉⢱⡛⠻⠿⣿⣿⣿⣿⣿⠿⠿⠿⠟⠭⠛⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="655" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.085s" dur="0.12s" fill="freeze" />⠀⠀⠀⢀⢴⠕⣋⠝⠕⠐⠀⠔⠉⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠉⠁⠁⠁⠁⠈⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="690" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.140s" dur="0.12s" fill="freeze" />⢀⣠⠁⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="725" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.195s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="560" y="760" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.250s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  </g>
+  <text x="420" y="65" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.150s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="107" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.205s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="149" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.260s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠖⠃⠀⠀⠀⡁⠀⠀⠀⠀⠀⠐⠆⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⢔⡤⠊⠁⠀⠀⠀⠀⠀</text>
+  <text x="420" y="191" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.315s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠁⠀⠀⠘⠁⢀⠀⠀⠀⠀⢈⠓⠂⠠⡄⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⠿⠞⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="233" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.370s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠒⠁⠀⠠⡚⠁⢀⣙⣀⣈⡩⠬⢁⠀⢑⠶⠤⡆⠤⡀⠀⠀⠀⠀⠀⠀⢀⠴⢲⣋⣽⣷⠟⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="275" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.425s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⢠⠀⠀⣶⠃⠗⣡⣶⣮⣿⡿⠿⠿⢿⣿⣷⣶⣤⣤⠤⠴⠦⠬⣤⣤⠄⣉⠉⠝⢲⣿⡷⠻⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="317" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.480s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠁⡀⡸⠁⣰⣿⡿⠛⠋⣁⡀⠤⠤⢄⡀⠈⠛⢯⣿⣟⣾⣶⣶⣮⣭⣵⣾⣿⣟⠿⠉⢨⠖⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="359" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.535s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⢠⠳⡧⣻⡿⠋⢀⠒⠉⠀⠀⠀⠀⠀⠀⠉⠢⠀⠀⠙⠛⣻⣿⣿⣿⢿⣿⣿⠟⡱⠖⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="401" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.590s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢠⣧⠓⣾⣿⠁⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⢦⣠⣾⣿⠿⣿⣿⣿⡿⣫⠏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="443" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.645s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠂⢃⣸⣿⠇⢠⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣿⠟⢿⠁⠸⡿⣿⣯⡶⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="485" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.700s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢘⡄⠘⣿⣿⠀⠸⡀⠀⠀⠀⠀⠀⢀⣀⣴⣾⣿⡿⡟⡋⠐⡇⠀⢸⣿⣿⠃⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="527" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.755s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢡⠘⢰⣿⡿⡆⠀⣇⠀⣀⣠⣤⣶⣿⢷⢟⠻⠀⠈⠀⠀⠀⡇⠀⣼⣿⣿⠂⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="569" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.810s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠔⢀⡴⢯⣾⠟⡏⢀⣠⣿⣿⣿⣟⢟⡋⠅⠘⠉⠀⠀⠀⠀⢀⠀⠁⢠⣿⣟⠃⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="611" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.865s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠞⣻⣷⡿⢙⣩⣶⡿⠿⠛⠉⠑⢡⡁⠀⠀⠀⠀⠀⠀⢀⠔⠁⠀⣰⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="653" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.920s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣡⣾⣥⣾⢫⡦⠾⠛⠙⠉⠀⠀⢀⣀⠀⠈⠙⠓⠦⠤⠤⠀⠘⠁⢀⡤⣾⡿⠏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="695" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.975s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠔⣴⣾⣿⣿⢟⢝⠢⠃⢀⣤⢴⣾⣮⣷⣶⢿⣶⡤⣐⡀⠀⣠⣤⢶⣪⣿⣿⡿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="737" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.030s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⡀⣦⣾⡿⡛⠵⠺⢈⡠⠶⠿⠥⠥⡭⠉⠉⢱⡛⠻⠿⣿⣿⣿⣿⣿⠿⠿⠿⠟⠭⠛⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="779" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.085s" dur="0.12s" fill="freeze" />⠀⠀⠀⢀⢴⠕⣋⠝⠕⠐⠀⠔⠉⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠉⠁⠁⠁⠁⠈⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="821" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.140s" dur="0.12s" fill="freeze" />⢀⣠⠁⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="863" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.195s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="420" y="905" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.250s" dur="0.12s" fill="freeze" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
 </g>
 
-<line x1="20" y1="808" x2="1100" y2="808" stroke="#30363d" />
-<text x="20" y="830" fill="#7d8590" font-size="12">minh2026@github: ~$ whoami <tspan fill="#c9d1d9">Pham Duc Minh</tspan><tspan fill="#58a6ff"> ▋</tspan></text>
+<line x1="20" y1="1048" x2="820" y2="1048" stroke="#30363d" />
+<text x="20" y="1070" fill="#7d8590" font-size="12">minh2026@github: ~$ whoami <tspan fill="#c9d1d9">Pham Duc Minh</tspan><tspan fill="#58a6ff"> ▋</tspan></text>
+</g>
 </svg>
