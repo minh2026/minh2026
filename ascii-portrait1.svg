@@ -127,5 +127,8 @@
     <text x="58.00" y="782.19" textLength="724.00" lengthAdjust="spacing">&#160;&#160;.%##########%#############%@#%#%#*****************#%@%###%%##%@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%</text>
   </g>
   <path d="M18 808 H822" stroke="#30363d" stroke-width="1"/>
-  <text x="24" y="850" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#c9d1d9">minh2026@github: ~$ whoami Pham Duc Minh <tspan fill="#58a6ff">▋</tspan></text>
+  <text x="24" y="850" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#c9d1d9" textLength="308" lengthAdjust="spacing">minh2026@github: ~$ whoami Pham Duc Minh</text>
+  <rect x="339.7" y="838" width="8" height="15" fill="#ffffff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
 </svg>
