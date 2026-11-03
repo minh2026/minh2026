@@ -16,9 +16,9 @@
 <text x="112" y="157" fill="#c9d1d9" font-size="10" opacity="0"><set attributeName="opacity" to="1" begin="0.79s" fill="freeze"/>Ha Noi, Vietnam</text>
 <g transform="translate(224 148)" opacity="0"><set attributeName="opacity" to="1" begin="0.79s" fill="freeze"/><rect width="16" height="11" rx="0.6" fill="#da251d"/><polygon points="8,1.5 9.55,5 13.3,5.2 10.4,7.5 11.4,10 8,8.2 4.6,10 5.6,7.5 2.7,5.2 6.45,5" fill="#ffdf00"/></g>
 <text x="24" y="179" fill="#7d8590" font-size="10" opacity="0"><set attributeName="opacity" to="1" begin="0.97s" fill="freeze"/>Languages:</text>
-<text x="112" y="179" fill="#c9d1d9" font-size="10" opacity="0"><set attributeName="opacity" to="1" begin="0.97s" fill="freeze"/>C · Java · C#</text>
+<text x="112" y="179" fill="#c9d1d9" font-size="10" opacity="0"><set attributeName="opacity" to="1" begin="0.97s" fill="freeze"/>Python · C · Java · C#</text>
 <text x="24" y="201" fill="#7d8590" font-size="10" opacity="0"><set attributeName="opacity" to="1" begin="1.15s" fill="freeze"/>Frontend:</text>
-<text x="112" y="201" fill="#c9d1d9" font-size="10" opacity="0"><set attributeName="opacity" to="1" begin="1.15s" fill="freeze"/>HTML · CSS · JavaScript</text>
+<text x="112" y="201" fill="#c9d1d9" font-size="10" opacity="0"><set attributeName="opacity" to="1" begin="1.15s" fill="freeze"/>Python · HTML · CSS · JavaScript</text>
 <text x="24" y="223" fill="#7d8590" font-size="10" opacity="0"><set attributeName="opacity" to="1" begin="1.33s" fill="freeze"/>Apps:</text>
 <text x="112" y="223" fill="#c9d1d9" font-size="10" opacity="0"><set attributeName="opacity" to="1" begin="1.33s" fill="freeze"/>Console Apps · Desktop Apps</text>
 <text x="24" y="245" fill="#7d8590" font-size="10" opacity="0"><set attributeName="opacity" to="1" begin="1.51s" fill="freeze"/>Styling:</text>
@@ -29,7 +29,7 @@
 <text x="112" y="289" fill="#55d6be" font-size="10" opacity="0"><set attributeName="opacity" to="1" begin="1.87s" fill="freeze"/>● focused on learning and improving</text>
 <line x1="0" y1="321" x2="490" y2="321" stroke="#30363d"/>
 <text x="24" y="343" fill="#7d8590" font-size="11">minh2026@github:~$ <tspan fill="#c9d1d9">whoami</tspan></text>
-<rect x="207" y="332" width="7" height="13" fill="#55d6be"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/></rect>
+<rect x="207" y="332" width="7" height="13" fill="#ffffff"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/></rect>
 
 <rect x="24" y="357" width="45" height="12" rx="2" fill="#ff5f56"/>
 <rect x="79" y="357" width="45" height="12" rx="2" fill="#ffbd2e"/>
