@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="388" viewBox="0 0 490 388" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+<style>
+@keyframes in { from { opacity: 0; transform: translateX(-8px) } to { opacity: 1; transform: none } }
+.l { opacity: 0; animation: in .45s ease-out both }
+.k { fill: #22d3ee; font-weight: 700 }
+.v { fill: #c9d1d9 }
+.m { fill: #7d8590 }
+</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111722"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+<rect width="490" height="388" rx="12" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="489" height="387" rx="12" fill="none" stroke="#30363d"/>
+<line x1="0" y1="30" x2="490" y2="30" stroke="#30363d"/>
+<circle cx="20" cy="15" r="5" fill="#ff5f56"/><circle cx="36" cy="15" r="5" fill="#ffbd2e"/><circle cx="52" cy="15" r="5" fill="#27c93f"/>
+<text x="245" y="19" fill="#7d8590" font-size="12" text-anchor="middle">minh2026@github: ~$ neofetch</text>
+
+<text class="l" style="animation-delay:.2s" x="24" y="60" font-size="15" font-weight="700" fill="#39d353">minh2026<tspan class="m">@</tspan>github</text>
+<text class="l m" style="animation-delay:.35s" x="24" y="78">──────────────────────────────────────────</text>
+<text class="l" style="animation-delay:.5s" x="24" y="102"><tspan class="k">Role</tspan><tspan class="v" x="130">IT Student @ Vietnam</tspan></text>
+<text class="l" style="animation-delay:.65s" x="24" y="124"><tspan class="k">Prev</tspan><tspan class="v" x="130">Aspiring Software Engineer</tspan></text>
+<text class="l" style="animation-delay:.8s" x="24" y="146"><tspan class="k">Experience</tspan><tspan class="v" x="130">Currently Learning &amp; Building</tspan></text>
+<g class="l" style="animation-delay:.95s"><text x="24" y="168"><tspan class="k">Location</tspan><tspan class="v" x="130">Ha Noi, Vietnam</tspan></text><g transform="translate(254 156.8) scale(1.125)"><rect width="16" height="11" rx="0.6" fill="#da251d"/><polygon points="8,1.5 9.55,5 13.3,5.2 10.4,7.5 11.4,10 8,8.2 4.6,10 5.6,7.5 2.7,5.2 6.45,5" fill="#ffdf00"/></g></g>
+<text class="l" style="animation-delay:1.1s" x="24" y="190"><tspan class="k">Languages</tspan><tspan class="v" x="130">Python · C · Java · C#</tspan></text>
+<text class="l" style="animation-delay:1.25s" x="24" y="212"><tspan class="k">Frontend</tspan><tspan class="v" x="130">Python · HTML · CSS · JavaScript</tspan></text>
+<text class="l" style="animation-delay:1.4s" x="24" y="234"><tspan class="k">Apps</tspan><tspan class="v" x="130">Console Apps · Desktop Apps</tspan></text>
+<text class="l" style="animation-delay:1.55s" x="24" y="256"><tspan class="k">Styling</tspan><tspan class="v" x="130">Clean Code · OOP · DSA</tspan></text>
+<text class="l" style="animation-delay:1.7s" x="24" y="278"><tspan class="k">Tools</tspan><tspan class="v" x="130">Git · GitHub · VS Code</tspan></text>
+<text class="l" style="animation-delay:1.85s" x="24" y="300"><tspan class="k">Status</tspan><tspan fill="#39d353" x="130">● focused on learning and improving</tspan></text>
+
+<g class="l" style="animation-delay:2.05s">
+<rect x="24" y="320" width="26" height="14" fill="#484f58"/><rect x="50" y="320" width="26" height="14" fill="#ff5f56"/><rect x="76" y="320" width="26" height="14" fill="#39d353"/><rect x="102" y="320" width="26" height="14" fill="#f2cc60"/><rect x="128" y="320" width="26" height="14" fill="#1f6feb"/><rect x="154" y="320" width="26" height="14" fill="#bc8cff"/><rect x="180" y="320" width="26" height="14" fill="#22d3ee"/><rect x="206" y="320" width="26" height="14" fill="#e6edf3"/>
+</g>
+<text class="l m" style="animation-delay:2.25s" x="24" y="366">minh2026@github:~$</text>
+<rect x="170" y="355" width="8" height="14" fill="#ffffff" opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" begin="2.75s" repeatCount="indefinite"/></rect>
+</svg>
