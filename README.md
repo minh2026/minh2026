@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td valign="top"><img src="./ascii-portrait.svg" width="370" alt="ASCII portrait of Minh" /></td>
-    <td valign="top"><img src="./info-card1.svg" width="490" alt="Software Engineer based in Vietnam" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Software Engineer based in Vietnam" /></td>
   </tr>
 </table>
 
